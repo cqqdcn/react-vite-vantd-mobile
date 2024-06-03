@@ -1,0 +1,17 @@
+.search{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+  // border-bottom: 0.1px solid #ccc;
+  padding: 0 10px;
+}
+.history_text_item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  span{
+    color: #323233;
+    font-size: 14px;
+  }
+}

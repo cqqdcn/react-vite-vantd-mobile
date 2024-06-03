@@ -1,0 +1,19 @@
+//定义主题色
+:root:root {
+  --adm-color-primary:  #fc6627;
+}
+.purple-theme {
+  --adm-color-primary: #a062d4;
+}
+.comeBack{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 99;
+  background-color: #fff;
+}
+.comeBack-line{
+  width: 100%;
+  height: 45px;
+}
